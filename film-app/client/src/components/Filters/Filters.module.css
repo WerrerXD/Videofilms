@@ -1,0 +1,24 @@
+.filtersContainer {
+  display: flex;
+  align-items: flex-end;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.filterWrapper {
+  width: 284px;
+}
+
+.reset {
+  border: none;
+  background-color: transparent;
+  height: 42px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  color: #9854f6;
+  &:hover {
+    color: #bd93f7;
+  }
+}

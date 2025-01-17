@@ -1,0 +1,353 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Kursuch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\controllers\\studioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:controllers\\studioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\authorizerequirements\\handlers\\adminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:authorizerequirements\\handlers\\adminhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\videofilmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:videofilmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:models\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\kursuch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:kursuch.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\authorizerequirements\\adminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:authorizerequirements\\adminrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|d:\\projects\\kursuch\\kursuch.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ED22643C-B4AC-4C4B-A4EA-0B306E0DFF16}|Kursuch.csproj|solutionrelative:kursuch.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 322,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\AuthorizeRequirements\\Handlers\\AdminHandler.cs",
+              "RelativeDocumentMoniker": "AuthorizeRequirements\\Handlers\\AdminHandler.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\AuthorizeRequirements\\Handlers\\AdminHandler.cs",
+              "RelativeToolTip": "AuthorizeRequirements\\Handlers\\AdminHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:09:49.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminRequirement.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\AuthorizeRequirements\\AdminRequirement.cs",
+              "RelativeDocumentMoniker": "AuthorizeRequirements\\AdminRequirement.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\AuthorizeRequirements\\AdminRequirement.cs",
+              "RelativeToolTip": "AuthorizeRequirements\\AdminRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:09:55.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudiosController.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Controllers\\StudiosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudiosController.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\Controllers\\StudiosController.cs",
+              "RelativeToolTip": "Controllers\\StudiosController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:13:38.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "License.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Models\\License.cs",
+              "RelativeDocumentMoniker": "Models\\License.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\Models\\License.cs",
+              "RelativeToolTip": "Models\\License.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:15:52.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T15:55:26.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "ExceptionMiddleware.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:31:31.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:11:07.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:07:58.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenresController.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Controllers\\GenresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GenresController.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\Controllers\\GenresController.cs",
+              "RelativeToolTip": "Controllers\\GenresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:04:12.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideofilmdbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\VideofilmdbContext.cs",
+              "RelativeDocumentMoniker": "VideofilmdbContext.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\VideofilmdbContext.cs",
+              "RelativeToolTip": "VideofilmdbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T21:47:54.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:11:09.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA5wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:15:52.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Kursuch.csproj",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Kursuch.csproj",
+              "RelativeDocumentMoniker": "Kursuch.csproj",
+              "ToolTip": "D:\\Projects\\Kursuch\\Kursuch.csproj",
+              "RelativeToolTip": "Kursuch.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T17:28:22.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:15:48.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:15:52.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T08:15:52.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "PasswordHasher.cs",
+              "ToolTip": "D:\\Projects\\Kursuch\\PasswordHasher.cs",
+              "RelativeToolTip": "PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:06:09.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Projects\\Kursuch\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T17:26:34.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Kursuch.http",
+              "DocumentMoniker": "D:\\Projects\\Kursuch\\Kursuch.http",
+              "RelativeDocumentMoniker": "Kursuch.http",
+              "ToolTip": "D:\\Projects\\Kursuch\\Kursuch.http",
+              "RelativeToolTip": "Kursuch.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-07T21:45:09.171Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 78,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

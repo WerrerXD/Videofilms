@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  gap: 16px;
+  align-items: flex-end;
+}
+
+.wrapper {
+  height: 42px;
+}
+
+.input {
+  display: flex;
+  align-content: center;
+  border-radius: 8px !important;
+  border: 1px solid #d5d6dc !important;
+  height: 100% !important;
+  overflow: hidden;
+  background-color: white !important;
+
+  &:hover {
+    border: 1px solid #9854f6;
+  }
+}
+
+.label {
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  line-height: 22.4px;
+  margin-bottom: 8px;
+}
+
+.control {
+  &:hover {
+    background: none !important;
+    color: #bd93f7 !important;
+  }
+  &:active {
+    color: #9854f6 !important;
+  }
+}
+
+.error {
+  position: absolute;
+  width: 130px;
+}

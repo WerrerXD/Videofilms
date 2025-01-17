@@ -1,0 +1,58 @@
+.card {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 16px 0;
+  cursor: pointer;
+  transition: box-shadow 0.2s ease-in-out;
+  max-width: 600px; /* Увеличен размер карточки */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Легкая тень */
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* При наведении тень увеличивается */
+}
+
+.poster {
+  width: 150px; /* Увеличен размер постера */
+  height: 225px; /* Соответствующее соотношение сторон */
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 16px; /* Пространство между постером и текстом */
+  flex-grow: 1;
+}
+
+.textInfo {
+  margin-bottom: 16px; /* Увеличен отступ для пространства */
+}
+
+.title {
+  font-size: 20px; /* Увеличен размер шрифта для заголовка */
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.grayText {
+  color: #888;
+  font-size: 16px; /* Немного увеличен размер серого текста */
+  margin-left: 12px; /* Добавлен отступ от названия */
+  display: inline-block; /* Чтобы текст располагался на одной линии с заголовком */
+}
+
+
+.description {
+  margin-top: 12px;
+  font-size: 14px; /* Немного больше для читаемости */
+}
+
+.description div {
+  margin-top: 8px; /* Пространство между строками описания */
+}

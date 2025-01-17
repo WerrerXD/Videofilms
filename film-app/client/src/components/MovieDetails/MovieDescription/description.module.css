@@ -1,0 +1,55 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: 100%;
+  height: fit-content;
+}
+
+.wrapper > h3 {
+  margin: 0 0 16px;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.trailer {
+  width: 500px;
+  height: 281px;
+  border: 3px solid rgba(206, 206, 206, 0.382);
+  border-radius: 9px;
+}
+
+.companiesContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.companyRow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.companyRow > span {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.logoWrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  width: 40px;
+  border: 0.5px solid #f1f1f1;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.logo {
+  width: 38px;
+  object-fit: contain;
+}

@@ -1,0 +1,66 @@
+.wrapper {
+  height: 42px;
+}
+
+.label {
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  line-height: 22.4px;
+  margin-bottom: 8px;
+}
+
+.input {
+  display: flex;
+  align-content: center;
+  border-radius: 8px !important;
+  border: 1px solid #d5d6dc;
+  height: 100% !important;
+  overflow: hidden;
+
+  &:hover {
+    border: 1px solid #9854f6;
+  }
+}
+
+.option {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+  &:hover {
+    background-color: #f2ebf9 !important;
+  }
+  &[data-checked] {
+    background-color: #9854f6 !important;
+    color: white;
+  }
+}
+
+.closedChevron {
+  transition: transform 0.3s ease;
+}
+
+.openedChevron {
+  transform: rotate(180deg);
+  transition: transform 0.3s ease;
+}
+
+.pill {
+  background-color: transparent !important;
+  font-size: 14px !important;
+  padding: 0 !important;
+
+  &:not(:last-of-type) {
+    &::after {
+      content: ",";
+    }
+  }
+
+  & button {
+    display: none;
+  }
+}
+
+.pillsList {
+  gap: 0;
+}

@@ -1,0 +1,10 @@
+.control {
+  &:hover {
+    background-color: #d1b4f8 !important;
+    color: white;
+  }
+  &[data-active] {
+    background-color: #9854f6 !important;
+    color: white;
+  }
+}

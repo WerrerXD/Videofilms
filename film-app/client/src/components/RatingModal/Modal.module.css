@@ -1,0 +1,32 @@
+.inner {
+  align-self: center;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin-top: 16px;
+}
+
+.header {
+  border-bottom: 1px solid #eaebed;
+  padding: 16px, 11px, 16px, 16px;
+}
+
+.overlay {
+  background-color: #00000033 !important;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 22.4px;
+  text-align: left;
+}
+
+.starsContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
