@@ -31,29 +31,7 @@ public class ExceptionMiddleware
         HttpStatusCode statusCode;
         string message = "Unexpected error";
         var excpType = ex.GetType();
-
-        //if (excpType == typeof(BadRequestException))
-        //{
-        //    statusCode = HttpStatusCode.BadRequest;
-        //    message = ex.Message;
-        //}
-        //else if (excpType == typeof(NotFoundException))
-        //{
-        //    statusCode = HttpStatusCode.NotFound;
-        //    message = ex.Message;
-        //}
-        //else if (excpType == typeof(AlreadyExistsException))
-        //{
-        //    statusCode = HttpStatusCode.Conflict;
-        //    message = ex.Message;
-        //}
-        //if (excpType == typeof(UnauthorizedException))
-        //{
-       //     statusCode = HttpStatusCode.Unauthorized;
-       //     message = ex.Message;
-       // }
-        //else
-        //{
+        
         statusCode = HttpStatusCode.InternalServerError;
         message = ex.Message;
         // }

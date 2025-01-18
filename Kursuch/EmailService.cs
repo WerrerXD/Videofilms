@@ -8,7 +8,7 @@ public class EmailService : IEmailService
 {
     private readonly string _smtpServer = "smtp.gmail.com"; // Замените на ваш SMTP сервер
     private readonly int _smtpPort = 587; // Порт для SMTP
-    private readonly string _smtpUser = "videofilmsshop@gmail.com"; // Ваш email
+    private readonly string _smtpUser = "videofilmsshop@gmail.com";
     private readonly string _smtpPassword = "utkk bxeg wify umgy"; // Ваш пароль
 
     public async Task SendAsync(string toEmail, string subject, string body)
