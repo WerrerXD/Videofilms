@@ -53,7 +53,6 @@ builder.Services.AddAuthorization(options =>
     });
 });
 
-//builder.Services.AddMvc();
 
 builder.Services.AddSwaggerGen(options =>
     options.MapType<DateOnly>(() => new OpenApiSchema

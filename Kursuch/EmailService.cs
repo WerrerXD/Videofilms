@@ -36,7 +36,6 @@ public class EmailService : IEmailService
         }
         catch (Exception ex)
         {
-            // Обработка ошибок (например, логирование)
             throw new Exception("Error sending email", ex);
         }
     }

@@ -34,7 +34,6 @@ public class ExceptionMiddleware
         
         statusCode = HttpStatusCode.InternalServerError;
         message = ex.Message;
-        // }
 
         var result = JsonSerializer.Serialize(new { message });
         context.Response.ContentType = "application/json";
